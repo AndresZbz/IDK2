@@ -1,6 +1,6 @@
 # IDK2
 
-My simple monogame template for new projects for windows using OpenGL.
+My simple monogame template for new projects for Desktop using OpenGL.
 
 ## What's inside?
 
@@ -16,4 +16,4 @@ My simple monogame template for new projects for windows using OpenGL.
 
 ## Using it
 
-You will need .net 8.0 with the MonoGame dependencies installed an then just open the solution file.
+You will need .NET 8.0 with the MonoGame dependencies installed and then just open the solution file.
